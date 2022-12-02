@@ -1,1 +1,0 @@
-/mnt/d/share/Advent-of-Code-2021/challenges/day_7_the_treachery_of_whales/target/debug/day_7_the_treachery_of_whales: /mnt/d/share/Advent-of-Code-2021/challenges/day_7_the_treachery_of_whales/src/main.rs
