@@ -1,5 +1,7 @@
-# Advent-of-Code-2021
-Days 1-7
+# Purpose
+This repository acts as an archive of coding problems attempted from various sources.
 
-# Advent-of-Code-2022
-Counting...
+# Table of Contents
+- Advent-of-Code-2021
+- Advent-of-Code-2022
+
